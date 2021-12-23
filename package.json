@@ -1,0 +1,25 @@
+{
+  "name": "node_blockchain",
+  "version": "1.0.0",
+  "description": "A simple blockchain implementation in node and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaushikdey647/node_blockchain.git"
+  },
+  "keywords": [],
+  "author": "Kaushik Dey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaushikdey647/node_blockchain/issues"
+  },
+  "homepage": "https://github.com/Kaushikdey647/node_blockchain#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.3",
+    "typescript": "^4.5.4"
+  }
+}
