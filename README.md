@@ -15,3 +15,7 @@ once I get done with the ts, node, ex, mdb and rest of the tech.
 
 This is in a very early phase. Inspired by the video above, this is a blockchain implementation on a node.js framework coded in typescript.
 The idea is to create an api that takes transaction requests and manages a secure wallet system.
+
+## How to Contribute
+
+This is a very very early stage so I am not considering branches here, just commit changes to the main branch
