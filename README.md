@@ -10,3 +10,8 @@ once I get done with the ts, node, ex, mdb and rest of the tech.
 1. Go to index.ts and uncomment line 116 to 125
 2. use ` > npm install ` to fix stuff
 3. use ` > npm run start ` start to start the 3-transaction example
+
+## About the Project
+
+This is in a very early phase. Inspired by the video above, this is a blockchain implementation on a node.js framework coded in typescript.
+The idea is to create an api that takes transaction requests and manages a secure wallet system.
